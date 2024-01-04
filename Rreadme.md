@@ -1,5 +1,6 @@
 # Typing Test Game
 [Introduction](#introduction)
+
 [How to Play](#how-to-play)
 - [Registration and Login](#registration-and-login)
 - [Selecting Typing Test Level](#selecting-typing-test-level)
