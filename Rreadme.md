@@ -55,12 +55,20 @@
 
 ## Object-Oriented Programming Concepts
 ### Classes and Objects:
-#### -Classes are used to model entities in the program. Examples include Game, TypingTestGame, AuthenticationSystem, User, Admin, Result, TypingTestLevel, EasyLevel, MediumLevel, and HardLevel.
+#### -Classes are used to model entities in the program. 
+- Examples include Game, TypingTestGame, AuthenticationSystem, User, Admin, Result, TypingTestLevel, EasyLevel, MediumLevel, and HardLevel.
 
 #### -Objects are instances of these classes. For instance, in the Game class, an object of the TypingTestGame class is created (TypingTestGame game = new TypingTestGame();).
 
 ### Encapsulation:
 #### -Encapsulation is achieved by making use of access modifiers (private, protected, public) to control the access levels of fields and methods.
+  
+  public class User {
+      // Fields are private
+      private String username;
+      private String password;
+      private Map<String, List<Result>> resultsByLevel;
+
 
 #### -Private fields in the TypingTestGame class, like authSystem, users, typedWords, correctWords, etc., can only be accessed within the same class.
 
