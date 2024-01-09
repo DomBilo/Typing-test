@@ -62,13 +62,13 @@
 
 ### Encapsulation:
 #### -Encapsulation is achieved by making use of access modifiers (private, protected, public) to control the access levels of fields and methods.
-  
+  ''' java
   public class User {
       // Fields are private
       private String username;
       private String password;
       private Map<String, List<Result>> resultsByLevel;
-
+'''
 
 #### -Private fields in the TypingTestGame class, like authSystem, users, typedWords, correctWords, etc., can only be accessed within the same class.
 
