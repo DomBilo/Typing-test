@@ -1,7 +1,37 @@
 # Typing Test Game
 
 ## Introduction
-We're developing a typing test game because typing speed is an essential skill in today's digital world. Whether we're a student, a professional, or simply someone who spends a significant amount of time typing, having good typing speed and accuracy is crucial. In this blog post, we will explore how to create a Java console application that measures typing speed and accuracy.The project incorporates different typing levels, providing users with a varied and challenging experience.
+We're developing a typing test game because typing speed is an essential skill in today's digital world. Whether we're a student, a professional, or simply someone who spends a significant amount of time typing, having good typing speed and accuracy is crucial. In this blog post, we will explore how to create a Java console application that measures typing speed and accuracy.The project incorporates different typing levels, providing users with a varied and challenging experience. The project incorporates principles of Object-Oriented Programming (OOP), including Classes & Objects, Inheritance, Polymorphism, Encapsulation, Abstraction, Exception Handling, File I/O, and Anonymous Inner Class.
+## How the game work
+**Upon launching the program, users are presented with a menu offering various options:**<br/> 
+- Login: Users can log in with existing credentials.
+- Register: New users can create an account.
+- Play Typing Test: Users can engage in typing tests after logging in.
+- Exit: Exit the program.
+   
+**Registration and Login:**<br/>
+- Users can register as regular users or administrators.
+- Administrators have additional privileges.
+- Users need to log in to access the typing test.
+
+**Selecting Typing Test Level:**<br/>
+- Users are prompted to choose a difficulty level (Easy, Medium, or Hard).
+- The selected level determines the complexity of words to be typed.
+
+**Playing the Typing Test:**<br/>
+- Users are informed to get ready to type and to enter the words exactly as shown.
+- A random word from the chosen level is displayed, and users must type it accurately.
+- The program records the number of typed words, correct words, and wrong words.
+- The typing speed is calculated based on the time taken to type the words.
+- Results, including typed words, correct words, wrong words, accuracy percentage, and typing speed, are displayed at the end of the test.
+
+**Result Display:**<br/>
+- Typed Words: Total number of words typed.
+- Correct Words: Number of words typed accurately.
+- Wrong Words: Number of words with errors.
+- Accuracy: Percentage of correctly typed words.
+- Typing Speed: Speed in words per second or minute, depending on the mode.
+
 ## Features
 **1. Authentication**<br/>
 - **Log In:** Users can log in with their existing credentials.
