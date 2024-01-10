@@ -14,6 +14,10 @@
 - [4.Graphical User Interface](#graphical-user-interface)
 
 [Object-Oriented Programming Concepts](#object-oriented-programming-concepts)
+- [Classes & Objects](#class-and-objects)
+- [Inheritance](#inheritance)
+- [Polymorphism](#polymorphism)
+- 
 
 ## Introduction
 We're developing a typing test game because typing speed is an essential skill in today's digital world. Whether we're a student, a professional, or simply someone who spends a significant amount of time typing, having good typing speed and accuracy is crucial. In this blog post, we will explore how to create a Java console application that measures typing speed and accuracy.The project incorporates different typing levels, providing users with a varied and challenging experience. The project incorporates principles of Object-Oriented Programming (OOP), including Classes & Objects, Inheritance, Polymorphism, Encapsulation, Abstraction, Exception Handling, File I/O, and Anonymous Inner Class.
@@ -68,7 +72,7 @@ We're developing a typing test game because typing speed is an essential skill i
 
 ## Object-Oriented Programming Concepts
 
-### Classes & Objects
+### Classes and Objects
 
 We have a total of 10 classes:
 - **AuthenticationSystem:** Manages user authentication, login, and registration.
@@ -83,15 +87,15 @@ We have a total of 10 classes:
 ### Inheritance
  - **`Admin`** and **`User`** classes demonstrate inheritance. For example, **`public class Admin extends User`**.
 
-### Polymorphism (Casting, Overloading, Overriding)
+### Polymorphism
 - Polymorphism is shown through method overriding, e.g., **`@Override public String toString()`**.
 - Casting is not explicitly used in the provided code.
 
-### Encapsulation (Access Modifiers)
+### Encapsulation
  - Private fields like **`private Map<String, User> loginInfo;`** use encapsulation.
 - Getter methods provide controlled access, e.g., **`public User getCurrentUser()`**.
 
-### Abstraction (Abstract Class or Interface)
+### Abstraction
 - **`TypingTestLevel`** is an abstract class with an abstract method: **`public abstract String getRandomWord(Random random);`**.
 ### Exception Handling
 - Various try-catch blocks handle exceptions, e.g., in the **`loadUsers`** method.
