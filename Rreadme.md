@@ -13,7 +13,7 @@
 - [Inheritance](#inheritance)
 - [Polymorphism](#polymorphism)
 - [Abstraction](#abstraction)
-- [Composition](#composition)
+
 - [Encapsulation and Getter/Setter Methods](#encapsulation-and-gettersetter-methods)
 - [File I/O](#file-io)
 
