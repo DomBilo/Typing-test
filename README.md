@@ -1,4 +1,11 @@
 # Typing Test Game
+[Introduction](#introduction)
+
+[How the game work](#how-the-game-work)
+
+[Features](#features)
+
+[Object-Oriented Programming Concepts](#object-oriented-programming-concepts)
 
 ## Introduction
 We're developing a typing test game because typing speed is an essential skill in today's digital world. Whether we're a student, a professional, or simply someone who spends a significant amount of time typing, having good typing speed and accuracy is crucial. In this blog post, we will explore how to create a Java console application that measures typing speed and accuracy.The project incorporates different typing levels, providing users with a varied and challenging experience. The project incorporates principles of Object-Oriented Programming (OOP), including Classes & Objects, Inheritance, Polymorphism, Encapsulation, Abstraction, Exception Handling, File I/O, and Anonymous Inner Class.
@@ -51,7 +58,7 @@ We're developing a typing test game because typing speed is an essential skill i
 - **Level Selection:** Users can easily choose the desired difficulty level for the typing test.
 - **Results Display:** Performance results are presented in a clear and visually appealing format.
 
-## Object-Oriented Features
+## Object-Oriented Programming Concepts
 
 ### Classes & Objects
 
