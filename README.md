@@ -4,8 +4,14 @@
 [How the game work](#how-the-game-work)
 - [Registration and Login](#registration-and-login)
 - [Selecting Typing Test Level](#selecting-typing-test-level)
+- [Playing the Typing Test](#playing-the-typing-test)
+- [Result Display](#result-display)
 
 [Features](#features)
+- [1.Authentication](#1-authentication)
+- [2.Typing Test Game](2-typing-test-game)
+- [3.User Management](3-user-management)
+- [4.Graphical User Interface](#graphical-user-interface)
 
 [Object-Oriented Programming Concepts](#object-oriented-programming-concepts)
 
@@ -55,7 +61,7 @@ We're developing a typing test game because typing speed is an essential skill i
 - **Admin and Regular User Roles:** The system differentiates between regular users and administrators (admins).
 - **Admin Features:** Admins have additional features like checking and managing user results.
   
-#### **4. GUI (Graphical User Interface)**<br/>
+#### **4.Graphical User Interface**<br/>
 - **Login and Registration Forms:** The system provides user-friendly forms for logging in and registering.
 - **Level Selection:** Users can easily choose the desired difficulty level for the typing test.
 - **Results Display:** Performance results are presented in a clear and visually appealing format.
