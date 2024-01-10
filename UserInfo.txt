@@ -1,7 +1,0 @@
-ho:12
-dom9:0
-dom7:0
-dom5:0
-dom4:0
-dom3:0
-jaja:123
